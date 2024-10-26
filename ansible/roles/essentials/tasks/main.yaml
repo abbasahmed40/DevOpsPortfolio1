@@ -1,0 +1,4 @@
+- include_tasks: packages.yaml
+- include_tasks: cronei.yaml
+- include_tasks: bridge_0.yaml
+- include_tasks: loopback.yaml
